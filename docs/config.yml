@@ -1,0 +1,4 @@
+remote_theme: pages-themes/architect@v0.2.0
+title: SPFx Intranet Pack
+description: SharePoint Framework Web Parts for the Modern Intranet
+show_downloads: ["true"]
