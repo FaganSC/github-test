@@ -1,3 +1,6 @@
 remote_theme: pages-themes/architect@v0.2.0
 title: Github Test Site
 description: Bookmark this to keep an eye on my project updates!
+nav:
+  - Home: 'index.md'
+  - 'Test': 'test.md'
